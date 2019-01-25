@@ -110,6 +110,8 @@ render() {
 | style | false      |   Style object to be passed onto the WebView |
 | options | false      |   Pass global and lang options from Highcharts |
 | guage | false      |   Import gauge library from highcharts |
+| drilldown | false      |   Drilldown support |
+| exporting | false      |   Export support |
 
 
 props added to WebView
